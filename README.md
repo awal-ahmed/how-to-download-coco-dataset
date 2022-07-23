@@ -11,7 +11,7 @@ Different ways to download COCO dataset:
 2. Download by clicking this link:  
   Step 2.1. Go to COCO [COCO dataset links](#coco-dataset-links)  
   Step 2.2. Click on the link/URL of your required Image or Annotation  
-  Step 2.3. Create a directory/folder and name it to ```coco```
+  Step 2.3. Create a directory/folder and name it to ```coco```  
   Step 2.4. Create a directory ```images``` under ```coco```   
   Step 2.5. Extract/unzip all image zip under ```images``` folder  
   Step 2.6. Extract/unzip all annotation zip under ```coco``` folder  
