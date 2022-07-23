@@ -29,9 +29,9 @@ Different ways to download COCO dataset:
   Step 4.1. Open a terminal  
   Step 4.2. Go to your desired directory/folder  
   Step 4.3. Copy command from required file  
-    &nbsp;&nbsp;&nbsp;&nbsp;a. COCO 2014 Train, Val, Test: https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COCO%202014%20download.sh  
-    &nbsp;&nbsp;&nbsp;&nbsp;b. COCO 2015 Test: https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COC%202015%20download.sh  
-    &nbsp;&nbsp;&nbsp;&nbsp;c. COCO 2017 Train, Val, Test, Unlabeled: https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COCO%202017%20download.sh  
+    &nbsp;&nbsp;&nbsp;&nbsp;a. COCO 2014 Train, Val, Test: [COCO 2014 download.sh](https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COCO%202014%20download.sh)  
+    &nbsp;&nbsp;&nbsp;&nbsp;b. COCO 2015 Test: [COCO 2015 download.sh](https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COC%202015%20download.sh)  
+    &nbsp;&nbsp;&nbsp;&nbsp;c. COCO 2017 Train, Val, Test, Unlabeled: [COCO 2017 download.sh](https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COCO%202017%20download.sh)  
   Step 4.4. Run it in terminal.  
  
 
