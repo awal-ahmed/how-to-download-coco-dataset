@@ -1,37 +1,37 @@
 # how-to-download-coco-dataset
-Different ways to donwload COCO dataset:
+Different ways to download COCO dataset:
 1. Directly download from COCO website:  
   Step 1.1. Go to COCO website https://cocodataset.org/#download  
   Step 1.2. Click on your required Image or Annotations in Tools section  
-  Step 1.3. Create a directory/folder and name it to coco  
-  Step 1.4. Create 2 directory images and annotations under coco  
-  Step 1.5. Extract/unzip all image zip under images folder  
-  Step 1.6. Extract/unzip all annotation zip under image folder  
+  Step 1.3. Create a directory/folder and name it to ```coco```  
+  Step 1.4. Create a directory ```images``` under ```coco```  
+  Step 1.5. Extract/unzip all image zip under ```images``` folder  
+  Step 1.6. Extract/unzip all annotation zip under ```coco``` folder  
 
 2. Download by clicking this link:  
   Step 2.1. Go to COCO [COCO dataset links](#coco-dataset-links)  
   Step 2.2. Click on the link/URL of your required Image or Annotation  
-  Step 2.3. Create a directory/folder and name it to coco  
-  Step 2.4. Create 2 directory images and annotations under coco  
-  Step 2.5. Extract/unzip all image zip under images folder  
-  Step 2.6. Extract/unzip all annotation zip under image folder  
+  Step 2.3. Create a directory/folder and name it to ```coco```
+  Step 2.4. Create a directory ```images``` under ```coco```   
+  Step 2.5. Extract/unzip all image zip under ```images``` folder  
+  Step 2.6. Extract/unzip all annotation zip under ```coco``` folder  
   
 3. Download by copying link in browser:  
   Step 3.1. Go to [COCO dataset links](#coco-dataset-links)  
   Step 3.2. Copy the link/URL of on your required Image or Annotation  
   Step 3.3. Open a new tab and paste the link/URL there  
-  Step 3.4. Create a directory/folder and name it to coco  
-  Step 3.5. Create 2 directory images and annotations under coco  
-  Step 3.6. Extract/unzip all image zip under images folder  
-  Step 3.7. Extract/unzip all annotation zip under image folder  
+  Step 3.4. Create a directory/folder and name it to ```coco```  
+  Step 3.5. Create a directory ```images``` under ```coco```  
+  Step 3.6. Extract/unzip all image zip under ```images``` folder  
+  Step 3.7. Extract/unzip all annotation zip under ```coco``` folder  
  
 4. Download Using terminal:  
   Step 4.1. Open a terminal  
   Step 4.2. Go to your desired directory/folder  
   Step 4.3. Copy command from required file  
-    a. COCO 2014 Train, Val, Test:  
-    b. COCO 2015 Test:   
-    c. COCO 2017 Train, Val, Test, Unlabeled:  
+    &nbsp;&nbsp;&nbsp;&nbsp;a. COCO 2014 Train, Val, Test: https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COCO%202014%20download.sh  
+    &nbsp;&nbsp;&nbsp;&nbsp;b. COCO 2015 Test: https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COC%202015%20download.sh  
+    &nbsp;&nbsp;&nbsp;&nbsp;c. COCO 2017 Train, Val, Test, Unlabeled: https://github.com/awal-ahmed/how-to-download-coco-dataset/blob/main/COCO%202017%20download.sh  
   Step 4.4. Run it in terminal.  
  
 
